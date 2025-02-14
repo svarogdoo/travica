@@ -16,11 +16,15 @@
 
     <br />
     <div class="flex gap-x-2 justify-center">
-      <a href="https://www.instagram.com/TCREATIVELAB/">@tcreativelab</a>
+      <a target="_blank" href="https://www.instagram.com/TCREATIVELAB/"
+        >@tcreativelab</a
+      >
       <p>|</p>
-      <a href="https://www.instagram.com/travica_/">@travica</a>
+      <a target="_blank" href="https://www.instagram.com/travica_/">@travica</a>
       <p>|</p>
-      <a href="https://www.instagram.com/mali_dzin/">@mali_dzin</a>
+      <a target="_blank" href="https://www.instagram.com/mali_dzin/"
+        >@mali_dzin</a
+      >
     </div>
   </div>
 </section>

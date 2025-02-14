@@ -79,7 +79,9 @@
 
     <br />
     <p>— Uroš Travica, Founder</p>
-    <a href="https://www.instagram.com/travica_/"><p>@travica_</p></a>
+    <a target="_blank" href="https://www.instagram.com/travica_/"
+      ><p>@travica_</p></a
+    >
 
     <br />
     <br />
