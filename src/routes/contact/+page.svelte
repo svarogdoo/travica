@@ -1,5 +1,5 @@
 <script>
-  import t1 from "$lib/images/t1.jpeg";
+  import t1 from "$lib/images/t1.webp";
 </script>
 
 <svelte:head>
