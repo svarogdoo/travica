@@ -17,7 +17,7 @@
 
 <section>
   <div class="title">
-    <h2><a href="/tour">TCREATIVE LAB</a></h2>
+    <h2><a href="/about">TCREATIVE LAB</a></h2>
   </div>
   <img class="first-photo opacity-70 min-h-screen" src={t1} alt="" />
   <img src={t3} alt="" />

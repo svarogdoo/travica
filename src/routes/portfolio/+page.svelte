@@ -1,8 +1,4 @@
 <script lang="ts">
-  import TourCard from "./TourCard.svelte";
-  import { tourCards } from "./tourData";
-  // import tour1 from "$lib/images/tour1.jpg";
-  // import tour2 from "$lib/images/tour2.jpg";
 </script>
 
 <svelte:head>
