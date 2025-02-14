@@ -1,8 +1,8 @@
 <script lang="ts">
   import TourCard from "./TourCard.svelte";
   import { tourCards } from "./tourData";
-  import tour1 from "$lib/images/tour1.jpg";
-  import tour2 from "$lib/images/tour2.jpg";
+  // import tour1 from "$lib/images/tour1.jpg";
+  // import tour2 from "$lib/images/tour2.jpg";
 </script>
 
 <svelte:head>
@@ -11,13 +11,13 @@
 </svelte:head>
 
 <section class="tour">
-  <div class="tour-cards">
+  <!-- <div class="tour-cards">
     <TourCard tourData={tourCards[0]} photo={tour1} />
     <TourCard tourData={tourCards[1]} photo={tour2} />
     <TourCard tourData={tourCards[0]} photo={tour1} />
     <TourCard tourData={tourCards[1]} photo={tour2} />
     <TourCard tourData={tourCards[0]} photo={tour1} />
-  </div>
+  </div> -->
 </section>
 
 <style>
