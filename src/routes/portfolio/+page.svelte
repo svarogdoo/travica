@@ -43,7 +43,7 @@
   }
 
   .portfolio-text {
-    width: 30%;
+    width: 35%;
     z-index: 10;
     margin-top: 7em;
   }
