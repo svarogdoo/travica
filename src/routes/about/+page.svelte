@@ -1,5 +1,5 @@
 <script>
-  import t1 from "$lib/images/t1.webp";
+  import t8 from "$lib/images/t8.webp";
 </script>
 
 <svelte:head>
@@ -9,8 +9,7 @@
 
 <section class="bio-section">
   <!-- TODO use t8 but as webp -->
-  <img class="mob" src={t1} alt="Lexington background" />
-  <img class="desk" src={t1} alt="Lexington background" />
+  <img class="w-full h-full object-cover" src={t8} alt="TCreativeLab" />
   <div class="bio-text">
     <h1>Who We Are?</h1>
 
@@ -103,9 +102,7 @@
     z-index: 0;
     opacity: 30%;
   }
-  .mob {
-    display: none;
-  }
+
   .bio-text {
     width: 40%;
     z-index: 10;
@@ -116,17 +113,8 @@
     font-size: 1em;
     text-align: left;
   }
-  h2,
-  h3 {
-    font-size: 0.8em;
-    letter-spacing: 0.1em;
-    font-weight: 500;
-    word-spacing: 0.2em;
-    margin-top: 0.4em;
-  }
-  p,
-  li,
-  span {
+
+  p {
     font-size: 0.8em;
     letter-spacing: 0.1em;
     font-weight: 50;
@@ -139,12 +127,6 @@
     }
     h1 {
       margin-bottom: 2em;
-    }
-    .desk {
-      display: none;
-    }
-    .mob {
-      display: block;
     }
   }
 </style>
