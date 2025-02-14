@@ -1,14 +1,10 @@
-<script>
-  import t8 from "$lib/images/t8.webp";
-</script>
-
 <svelte:head>
-  <title>About</title>
-  <meta name="description" content="About TCreative Lab" />
+  <title>Services</title>
+  <meta name="description" content="Services we offer" />
 </svelte:head>
 
-<section class="bio-section">
-  <div class="bio-text">
+<section class="services-section">
+  <div class="services-text">
     <br />
     <h2>CONTENT CREATION</h2>
     <br />
@@ -81,13 +77,8 @@
     align-items: center;
     z-index: 10;
   }
-  img {
-    position: fixed;
-    z-index: 0;
-    opacity: 50%;
-  }
 
-  .bio-text {
+  .services-text {
     width: 30%;
     z-index: 10;
     margin-top: 7em;
@@ -105,12 +96,9 @@
     text-align: justify;
   }
   @media (max-width: 768px) {
-    .bio-text {
+    .services-text {
       width: 80%;
       margin-top: 5em;
-    }
-    h1 {
-      margin-bottom: 2em;
     }
   }
 </style>
