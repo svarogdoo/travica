@@ -100,7 +100,7 @@
   img {
     position: fixed;
     z-index: 0;
-    opacity: 30%;
+    opacity: 50%;
   }
 
   .bio-text {
@@ -115,7 +115,7 @@
   }
 
   p {
-    font-size: 0.8em;
+    font-size: 0.9em;
     letter-spacing: 0.1em;
     font-weight: 50;
     word-spacing: 0.15em;
