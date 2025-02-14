@@ -8,7 +8,6 @@
 </svelte:head>
 
 <section class="bio-section">
-  <!-- TODO use t8 but as webp -->
   <img class="w-full h-full object-cover" src={t8} alt="TCreativeLab" />
   <div class="bio-text">
     <h1>Who We Are?</h1>
