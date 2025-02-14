@@ -15,7 +15,7 @@
 <section class="contact-section">
   <div class="contact-text">
     <br />
-    <h1 class="mt-8 lg:mt-0">HELLO THERE.</h1>
+    <h1 class="mt-12 lg:mt-0">HELLO THERE.</h1>
     <br />
     <p>
       If you require any information about our services, please get in touch.
@@ -80,6 +80,10 @@
       >
       <p>Linkedin</p>
     </div>
+
+    <br />
+    <br />
+    <br />
   </div>
 </section>
 
@@ -122,7 +126,7 @@
     }
 
     h1 {
-      font-size: 1em;
+      font-size: 1.1em;
     }
 
     p,
