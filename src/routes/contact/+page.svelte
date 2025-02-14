@@ -3,6 +3,8 @@
   let email = "";
   let subject = "";
   let message = "";
+
+  $: isDisabled = !(name && email && subject && message);
 </script>
 
 <svelte:head>
@@ -21,7 +23,8 @@
 
     <form
       class="w-full flex flex-col gap-y-4 mt-8"
-      action="https://formsubmit.co/tcreativelab@gmail.com"
+      target="_blank"
+      action="https://formsubmit.co/tcreativelab@email.com"
       method="POST"
       id="contact"
     >
@@ -60,8 +63,11 @@
 
       <input
         type="submit"
-        class="bg-white text-black py-4 tracking-wider"
+        class="bg-white text-black py-4 tracking-wider disabled:bg-gray-400 {!isDisabled
+          ? 'cursor-pointer hover:scale-105 transition ease-in-out active:scale-95'
+          : ''} "
         value="Send"
+        disabled={isDisabled}
       />
     </form>
 
