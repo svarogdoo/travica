@@ -73,7 +73,9 @@
     <br />
     <br />
     <div class="flex gap-x-4 justify-between">
-      <a href="mailto:tcreativelab@gmail.com">tcreativelab@gmail.com</a>
+      <a href="mailto:tcreativelab.contact@gmail.com"
+        >tcreativelab.contact@gmail.com</a
+      >
       <a target="_blank" href="https://www.instagram.com/TCREATIVELAB/"
         >@tcreativelab</a
       >
