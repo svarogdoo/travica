@@ -14,7 +14,7 @@
 
 <section class="contact-section">
   <div class="contact-text">
-    <h1 class="mt-56 lg:mt-0">HELLO THERE.</h1>
+    <h1 class="mt-56 lg:mt-20">HELLO THERE.</h1>
     <br />
     <p>
       If you require any information about our services, please get in touch.
@@ -23,7 +23,7 @@
     <form
       class="w-full flex flex-col gap-y-4 mt-8"
       target="_blank"
-      action="https://formsubmit.co/tcreativelab@email.com"
+      action="https://formsubmit.co/utravica@gmail.com"
       method="POST"
       id="contact"
     >
