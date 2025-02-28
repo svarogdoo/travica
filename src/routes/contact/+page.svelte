@@ -14,7 +14,7 @@
 
 <section class="contact-section">
   <div class="contact-text">
-    <h1 class="mt-56 lg:mt-20">HELLO THERE.</h1>
+    <h1 class="mt-56 lg:mt-20">GET IN TOUCH.</h1>
     <br />
     <p>
       If you require any information about our services, please get in touch.
