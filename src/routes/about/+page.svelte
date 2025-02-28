@@ -9,7 +9,7 @@
 
 <section class="bio-section">
   <img class="w-full h-full object-cover" src={t8} alt="TCreativeLab" />
-  <div class="bio-text">
+  <div class="bio-text uppercase">
     <h1>Who We Are?</h1>
 
     <p>
@@ -105,9 +105,13 @@
   }
 
   .bio-text {
-    width: 40%;
+    width: 90%;
     z-index: 10;
     margin-top: 7em;
+  }
+  .bio-text h1 {
+    font-size: 1.8em;
+    letter-spacing: 0.1em;
   }
   h1 {
     margin-bottom: 2em;

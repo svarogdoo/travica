@@ -79,6 +79,7 @@
       <a target="_blank" href="https://www.instagram.com/TCREATIVELAB/"
         >@tcreativelab</a
       >
+      <p>Youtube</p>
       <p>Linkedin</p>
     </div>
 

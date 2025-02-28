@@ -39,35 +39,34 @@
     <a href="/about">
       <img src={tlogo} alt="TCREATIVE LAB" class="h-80 lg:h-96 w-auto" />
     </a>
-    <!-- <h2><a href="/about">TCREATIVE LAB</a></h2> -->
   </div>
   <img class="first-photo opacity-60 min-h-screen" src={t1} alt="" />
+  <img src={t97} alt="" />
   <img src={t3} alt="" />
+  <img src={t995} alt="" />
   <img src={t4} alt="" />
+  <img src={t9} alt="" />
+  <img src={t997} alt="" />
   <img src={t5} alt="" />
+  <img src={t7} alt="" />
   <img src={t8} alt="" />
   <img src={t6} alt="" />
-  <img src={t7} alt="" />
-  <img src={t9} alt="" />
-  <img class="second-photo" src={t2} alt="" />
-  <img src={t91} alt="" />
-  <img src={t92} alt="" />
+  <img src={t991} alt="" />
   <img src={t93} alt="" />
+  <img src={t996} alt="" />
   <img src={t94} alt="" />
   <img src={t95} alt="" />
-  <img src={t96} alt="" />
-  <img src={t97} alt="" />
-  <img src={t98} alt="" />
-  <img src={t99} alt="" />
-  <img src={t991} alt="" />
-  <img src={t992} alt="" />
-  <img src={t993} alt="" />
-  <img src={t994} alt="" />
-  <img src={t995} alt="" />
-  <img src={t996} alt="" />
-  <img src={t997} alt="" />
+  <img src={t92} alt="" />
   <img src={t998} alt="" />
+  <img class="second-photo" src={t2} alt="" />
+  <img src={t99} alt="" />
+  <img src={t96} alt="" />
+  <img src={t91} alt="" />
+  <img src={t98} alt="" />
+  <img src={t994} alt="" />
   <img src={t999} alt="" />
+  <img src={t993} alt="" />
+  <img src={t992} alt="" />
 </section>
 
 <style>
@@ -88,19 +87,4 @@
     color: white;
     z-index: 20;
   }
-  /* .second-photo {
-    display: none;
-  } */
-
-  /* @media (max-width: 768px) {
-    .title {
-      font-size: 0.9em;
-    }
-    .first-photo {
-      display: none;
-    }
-    .second-photo {
-      display: block;
-    }
-  } */
 </style>

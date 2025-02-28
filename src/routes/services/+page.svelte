@@ -56,11 +56,11 @@
 
     <br />
     <br />
-    <h2>WEBSITE DEVELOPMENT</h2>
+    <h2>WEBSITE DEVELOPMENT AND APP DEVELOPMENT</h2>
     <br />
     <p>
-      Creating modern, user-friendly websites that showcase your brand’s
-      identity, engage your audience, and drive results.
+      Creating modern, user-friendly websites and apps that showcase your
+      brand’s identity, engage your audience, and drive results.
     </p>
 
     <br />
